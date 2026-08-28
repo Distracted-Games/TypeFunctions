@@ -18,7 +18,7 @@ With `TypeFunctions.AddKeyIndexer`, the indexer is derived automatically from th
 
 ## Installation
 
-Download the latest release from the [latest release page](https://github.com/PLACEHOLDER/TypeFunctions/releases/latest).
+Download the latest release from the [latest release page](https://github.com/Distracted-Games/TypeFunctions/releases/latest).
 
 Copy `TypeFunctions.luau` into your project and require it wherever you need the type functions.
 
